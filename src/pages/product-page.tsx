@@ -771,19 +771,19 @@ export default function ProductPage() {
         name: 'Kit 140 Figurinhas Copa Do Mundo 2026 - 20 Envelopes Panini',
         price: 'R$ 89,90',
         img: img('/images/slide-1.webp'),
-        link: 'https://kit-140-figurinhas-mercadolivre.netlify.app/',
+        link: 'https://kit140-figurinhas-mercadolivre.netlify.app/',
       },
       {
         name: 'Kit 70 Figurinhas Copa Do Mundo 2026 - 10 Envelopes Panini',
         price: 'R$ 49,90',
         img: img('/images/slide-3.webp'),
-        link: 'https://kit-70-figurinhas-mercadolivre.netlify.app/',
+        link: 'https://kit70-figurinhas-mercadolivre.netlify.app/',
       },
       {
         name: 'Kit Álbum Copa Do Mundo 2026 Capa Mole + 250 Figurinhas',
         price: 'R$ 49,00',
         img: img('/images/review-1.webp'),
-        link: 'https://album-mais-250figurinhas-mercadolivre.netlify.app/',
+        link: 'https://album-250figurinhas-mercadolivre.netlify.app/',
       },
     ].map((prod) => (
       <a
